@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Đặt đồ ăn</string>
+
+    ---------Login--------
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    ---------Food Oder-----
+    <string name="foododer">Food Order</string>
+    <string name="welcome">Welcome</string>
+    <string name="totalPrice">Total Price</string>
+    <string name="order">Order</string>
+    <string name="monney">0$</string>
+
+    ---------Your Order------
+    <string name="yourorder">Your Order</string>
+    <string name="total">Total</string>
+    <string name="monney1">70$</string>
+</resources>
